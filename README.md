@@ -2,5 +2,16 @@
 
 <h1> Bu yerda python kodlar bo'ladi</h1
 
+sdjfakfdsa
 
-<iframe src="https://kun.uz/"" width="80%" height="80%" style="border:1px solid black;">
+
+sdafsa
+sdfafsadf
+
+
+
+sadfasdf
+
+
+
+fsadfd
