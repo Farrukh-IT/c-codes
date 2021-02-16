@@ -1,0 +1,13 @@
+# include  <stdio.h>
+
+int main() {
+    int son1;
+    int son2;
+    printf("sonni Kiriting: ") ;
+    scanf ("%d %d', &son1 ,&son2");
+    printf ("kiritilgan Sonning yig'indisi:  %d\n", son1 + son2);
+    printf ("kiritilgan Sonning ayirmasi:  %d\n", son1 - son2);
+    printf ("kiritilgan Sonning ko'paytmasi:  %d\n", son1 * son2);
+    printf ("kiritilgan Sonning bo'linmasi:  %d\n", son1 / son2);
+    return 0;
+}
