@@ -1,4 +1,4 @@
 # c-codes
 
-<h1> Bu yerda python kodlar bo'ladi</h1
+<h1> Bu yerda C ko'dalar</h1
 
